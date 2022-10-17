@@ -1,0 +1,224 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.active {
+    color: white;
+}
+
+.content {
+    min-height: 80vh;
+    padding-block: 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainContent {
+    width: 80vw;
+    max-width: 80vw;
+}
+
+.titleText {
+    font-weight: bolder;
+    font-size: 1.6em;
+    text-align: center;
+}
+
+.mainText {
+    font-size: 1.4em;
+    margin-top: 2vh;
+    font-weight: 300;
+    text-align: center;
+}
+
+.secondaryText {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.6em;
+    margin-top: 3vh;
+}
+
+.pricingContent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 100%;
+}
+
+.pricingTitleContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.pricingInfoContent {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5vh;
+    padding-inline: 5vw;
+}
+
+.pricingInfoContentLeft {
+    width: 50%;
+    max-width: 50%;
+}
+
+.pricingInfoContentRight {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 50%;
+    max-width: 50%;
+}
+
+.pricingText {
+    font-weight: 500;
+    font-size: 1.6em;
+    letter-spacing: 1.5px;
+    margin-bottom: 1vh;
+}
+
+.pricingSecondaryText {
+    font-weight: 400;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.pricingMoreInfoContent {
+    display: flex;
+    flex-direction: column;
+    margin-top: 4vh;
+    padding-inline: 5vw;
+    
+}
+
+.pricingSecondaryPrices {
+    text-align: center;
+}
+
+.link {
+    text-decoration: underline;
+}
+
+@media (min-width: 750px) {
+    .content {
+        padding-block: 5vh;
+    }
+
+    .titleText {
+        font-size: 1.8em;
+        text-align: left;
+    }
+
+    .mainText {
+        font-size: 1.5em;
+        margin-top: 3vh;
+        text-align: left;
+    }
+
+    .secondaryText {
+        font-size: 1.9em;
+        margin-top: 5vh;
+    }
+}
+
+@media (min-width: 1000px) {
+    
+}
+
+@media (min-width: 1200px) {
+    .content {
+        padding-block: 10vh;
+    }
+
+    .titleText {
+        font-size: 2.2em;
+        text-align: left;
+    }
+    
+    .secondaryTitleText {
+        font-weight: 400;
+        font-size: 1.6em;
+    }
+    
+    .mainText {
+        font-size: 1.6em;
+        margin-top: 5vh;
+        text-align: left;
+    }
+    
+    .secondaryText {
+        font-size: 2em;
+        margin-top: 5vh;
+    }
+    
+    .navItem {
+        color: white;
+    }
+    
+    .pricingContent {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .pricingTitleContent {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .pricingInfoContent {
+        display: flex;
+        flex-direction: column;
+        margin-left: 5vw;
+        margin-top: 10vh;
+        
+    }
+    
+    .pricingText {
+        font-weight: 500;
+        font-size: 1.6em;
+    }
+
+    .pricingTextFooter {
+        font-weight: 500;
+        font-size: 1.6em;
+        text-align: center;
+        margin-bottom: 5vh;
+    }
+    
+    .pricingSecondaryText {
+        font-weight: 400;
+        font-size: 1.4em;
+        text-align: left;
+    }
+    
+    .pricingMoreInfoContent {
+        display: flex;
+        flex-direction: column;
+        margin-left: 5vw;
+        margin-top: 10vh;
+    }
+    
+    .link {
+        text-decoration: underline;
+    }
+}
