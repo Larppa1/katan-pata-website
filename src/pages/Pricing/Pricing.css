@@ -14,7 +14,7 @@
     justify-content: center;
 }
 
-#pricingMainTitle > article > h3 {
+#pricingMainTitle > article > h2, h3 {
     text-align: center;
     margin-top: 0;
 }
@@ -28,7 +28,7 @@
     display: flex;
     flex-direction: row;
     margin-block-end: 2vh;
-    min-width: 100vw;
+    width: 100vw;
     padding-inline: 5vw;
 }
 
@@ -84,4 +84,36 @@
 #pricingMainBottom > article > h2 {
     text-align: center;
     margin-top: 0;
+}
+
+@media (min-width: 768px) {
+    #pricingMainContent {
+        max-width: 100%;
+    }
+
+    #pricingMainContent > article {
+        max-width: 100%;
+        padding-inline: 25vw;
+    }
+
+    #pricingMainContentSecondary > article > section:first-of-type {
+        font-size: 1.4em;
+        padding-inline: 0;
+        text-align: center;
+    }
+
+    #pricingMainContentSecondary > article > section:last-of-type {
+        padding-inline: 0;
+    }
+
+    #pricingMainBottom > article > p {
+        font-size: 1.4em;
+        padding-inline: 0;
+        text-align: center;
+    }
+
+    #pricingMainBottom > article > h2 {
+        margin-block-start: 5vh;
+        margin-block-end: 3vh;
+    }
 }

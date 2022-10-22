@@ -1,8 +1,19 @@
 #contactMainContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding-top: 5vh;
     text-align: center;
 }
 
 #contactMainContent > article > h2 {
     line-height: 2em;
+}
+
+@media (min-width: 768px) {
+    #contactMainContent {
+        padding-top: 0;
+        height: 60vh;
+        justify-content: center;
+    }
 }

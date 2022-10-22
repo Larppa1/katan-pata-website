@@ -73,35 +73,64 @@ export default function Pricing() {
     }else {
         return(
             <div className="container">
-                <DesktopHeader />
-                <div className="content">
-                    <div className="pricingContent">
-                        <article class="prose" className='pricingTitleContent'>
-                            <h1 className='titleText'>Hinnasto</h1>
-                            <h3 className='secondaryTitleText'>Kaikkien palvelujen hinnat ovat kiinteitä tuntihintoja</h3>
+                <header>
+                    <DesktopHeader />
+                </header>
+                <main id='pricingMain'>
+                    <section id='pricingMainTitle'>
+                        <article className="prose">
+                            <h1>Hinnasto</h1>
+                            <h2>Kaikkien palvelujen hinnat ovat kiinteitä tuntihintoja</h2>
                         </article>
-                        <article class="prose" className="pricingInfoContent">
-                            <p className='pricingText'>Alv 24% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43€/h<br/>
-                            Alv 0% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34.68€/h (kotitalousvähennyksen jälkeen 20.81€/h)<br/>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43.35€/h | lauantaisin klo 07-18<br/>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;69.36€/h | sunnuntaisin & pyhinä klo 11-17
-                            </p>
+                    </section>
+                    <section id='pricingMainContent'>
+                        <article className="prose">
+                            <section>
+                                <h2>Alv 24%</h2>
+                                <h2>Alv 0%</h2>
+                                <h2>La klo 07-18</h2>
+                                <h2>Su klo 11-17</h2>
+                            </section>
+                            <section>
+                                <h2>43€/h</h2>
+                                <h2>34.68€/h</h2>
+                                <h2>43.35€/h</h2>
+                                <h2>69.36€/h</h2>
+                            </section>
                         </article>
-                        <article class="prose" className='pricingMoreInfoContent'>
-                            <p className='pricingSecondaryText'>Matkakuluja ei erikseen peritä, jos kohde on alle 10 kilometrin päässä Pirkkalan keskustasta.<br/><br/>
-                            Yli 10 kilometrin päässä olevista kohteista matkakuluista veloitetaan:<br/><br/>
-                            </p>
-                            <p className='pricingText'>Alv 24%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0,52€/km<br/><br/>
-                            Alv 0% &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0,42€/km<br/><br/>
-                            </p>
-                            <p className='pricingSecondaryText'>Muista 40% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/tulot-ja-vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
-                            <p className='pricingTextFooter'>HUOM! Alle 24 tunnin sisällä peruutetusta asiakaskäynnistä veloitetaan 43€ (sis.alv).</p>
-                            <h2 className='secondaryText'>Katariina / 040 56 44 049 TAI katanpata@gmail.com</h2>
+                    </section>
+                    <section id='pricingMainContentSecondary'>
+                        <article className="prose">
+                            <section>
+                                <p>Matkakuluja ei erikseen peritä, jos kohde on alle 10 kilometrin päässä Pirkkalan keskustasta.<br/><br/>
+                                    Yli 10 kilometrin päässä olevista kohteista matkakuluista veloitetaan:<br/><br/>
+                                </p>
+                            </section>
+                            <section>
+                                <section>
+                                    <h2>Alv 24%</h2>
+                                    <h2>Alv 0%</h2>
+                                </section>
+                                <section>
+                                    <h2>0,52€/km</h2>
+                                    <h2>0,42€/km</h2>
+                                </section>
+                            </section>
                         </article>
-                    </div>
-                </div>
-                {/*END OF CONTENT*/}
-                <Footer />
+                    </section>
+                    <section id='pricingMainBottom'>
+                        <article className='prose'>
+                            <p>Muista 40% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/tulot-ja-vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
+                            <p>HUOM! Alle 24 tunnin sisällä peruutetusta asiakaskäynnistä veloitetaan 43€ (sis. alv).</p>
+                            <h2>Katariina<br/>
+                                040 56 44 049 / katanpata@gmail.com
+                            </h2>
+                        </article>
+                    </section>
+                </main>
+                <footer>
+                    <Footer />
+                </footer>
             </div>
         )
     }
