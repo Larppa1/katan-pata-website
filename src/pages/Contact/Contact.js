@@ -1,8 +1,8 @@
 import React from 'react'
-import './styles.css'
-import DesktopHeader from '../components/desktop/DesktopHeader'
-import MobileHeader from '../components/mobile/MobileHeader'
-import Footer from '../components/universal/Footer'
+import './Contact.css'
+import DesktopHeader from '../../components/desktop/DesktopHeader'
+import MobileHeader from '../../components/mobile/MobileHeader'
+import Footer from '../../components/universal/Footer'
 
 export default function Contact() {
     if(window.innerWidth < 750) {

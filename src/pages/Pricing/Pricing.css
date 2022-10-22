@@ -1,0 +1,107 @@
+#pricingMain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    padding-block: 3vh;
+}
+
+#pricingMain > section:first-of-type > article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#pricingMain > section:first-of-type > article > h3 {
+    text-align: center;
+    margin-top: 0;
+}
+
+#pricingMainContent {
+    display: flex;
+    flex-direction: row;
+    padding-inline: 5vw;
+}
+
+#pricingMainContent > article {
+    display: flex;
+    flex-direction: row;
+    margin-block-end: 2vh;
+    min-width: 100vw;
+    padding-inline: 5vw;
+}
+
+#pricingMainContent > article > section:first-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+}
+
+#pricingMainContent > article > section:last-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 50%;
+}
+
+#pricingMainContentSecondary {
+    display: flex;
+    flex-direction: column;
+    padding-inline: 5vw;
+    margin-block-end: 2vh;
+}
+
+#pricingMainContentSecondary > article > section:first-of-type {
+    padding-inline: 5vw;
+}
+
+#pricingMainContentSecondary > article > section:nth-of-type(2) {
+    display: flex;
+    flex-direction: row;
+    padding-inline: 5vw;
+    min-width: 100vw;
+}
+
+#pricingMainContentSecondary > article > section:nth-of-type(2) > section:first-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+}
+
+#pricingMainContentSecondary > article > section:nth-of-type(2) > section:last-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 50%;
+}
+
+/* #pricingMain > section > article:last-of-type {
+    display: flex;
+    flex-direction: column;
+    padding-inline: 5vw;
+}
+
+#pricingMain > section > article:last-of-type > section:nth-of-type(2) {
+    display: flex;
+    flex-direction: row;
+    padding-inline: 5vw;
+    margin-top: -5vh;
+}
+
+#pricingMain > section > article:last-of-type > section:nth-of-type(2) > section:first-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+}
+
+#pricingMain > section > article:last-of-type > section:nth-of-type(2) > section:last-of-type {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 50%;
+} */

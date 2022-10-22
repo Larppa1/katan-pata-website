@@ -1,9 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Landing from './pages/Landing'
-import Services from './pages/Services'
-import Pricing from './pages/Pricing'
-import Contact from './pages/Contact'
-import About from './pages/About'
+import Landing from './pages/Landing/Landing'
+import Services from './pages/Services/Services'
+import Pricing from './pages//Pricing/Pricing'
+import Contact from './pages/Contact/Contact'
+import About from './pages/About/About'
+import './styles.css'
 
 export default function App() {
   return (

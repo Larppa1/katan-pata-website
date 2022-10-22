@@ -1,7 +1,7 @@
-import './styles.css'
-import DesktopHeader from '../components/desktop/DesktopHeader'
-import MobileHeader from '../components/mobile/MobileHeader'
-import Footer from '../components/universal/Footer'
+import './Services.css'
+import DesktopHeader from '../../components/desktop/DesktopHeader'
+import MobileHeader from '../../components/mobile/MobileHeader'
+import Footer from '../../components/universal/Footer'
 
 export default function Services() {
     if(window.innerWidth < 750) {
