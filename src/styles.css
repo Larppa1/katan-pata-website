@@ -2,8 +2,12 @@
     box-sizing: border-box;
 }
 
-* h4, p {
+h1, h2, h3, h4, h5, h6, p, li {
     color: white;
+}
+
+p, li {
+    font-size: 1.1em;
 }
 
 body {
@@ -28,4 +32,10 @@ footer {
     min-height: 10vh;
     height: 10vh;
     max-height: 10vh;
+}
+
+@media (min-width: 768px) {
+    p {
+        font-size: 1.4em;
+    }
 }

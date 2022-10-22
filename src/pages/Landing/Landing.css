@@ -8,7 +8,6 @@
 
 #landingMain > article {
     max-width: 80vw;
-    color: white;
 }
 
 #landingMain > article > h2:last-of-type {
@@ -22,8 +21,5 @@
 @media (min-width: 768px) {
     #landingMain > article > h1, h2 {
         text-align: center;
-    }
-    #landingMain > article > p {
-        font-size: 1.4em;
     }
 }

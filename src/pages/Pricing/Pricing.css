@@ -97,7 +97,6 @@
     }
 
     #pricingMainContentSecondary > article > section:first-of-type {
-        font-size: 1.4em;
         padding-inline: 0;
         text-align: center;
     }
@@ -107,7 +106,6 @@
     }
 
     #pricingMainBottom > article > p {
-        font-size: 1.4em;
         padding-inline: 0;
         text-align: center;
     }
