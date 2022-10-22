@@ -40,9 +40,6 @@ export default function MobileHeader() {
                         <li>
                             <Link to='/ota-yhteytta'>Yhteystiedot</Link>
                         </li>
-                        <li>
-                            <Link to='/tietoja'>Tietoja</Link>
-                        </li>
                     </ul>
                 </div>
                 {/*END OF dropdown*/}

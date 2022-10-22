@@ -12,6 +12,7 @@
 
 #landingMain > article > h2:last-of-type {
     text-align: center;
+    margin-block: 2vh;
 }
 
 #landingMain > article > h2:last-of-type {
