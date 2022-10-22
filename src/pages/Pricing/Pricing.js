@@ -12,7 +12,7 @@ export default function Pricing() {
                     <MobileHeader />
                 </header>
                 <main id='pricingMain'>
-                    <section>
+                    <section id='pricingMainTitle'>
                         <article className="prose">
                             <h1>Hinnasto</h1>
                             <h3>Kaikkien palvelujen hinnat ovat kiinteitä tuntihintoja</h3>
@@ -53,13 +53,15 @@ export default function Pricing() {
                             </section>
                         </article>
                     </section>
-                    <section>
+                    <section id='pricingMainBottom'>
                         <article className='prose'>
-                        <p className='pricingSecondaryText'>Muista 40% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/tulot-ja-vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
-                            <div className='pricingSecondaryPrices'>
-                                <p className='pricingText'>HUOM! Alle 24 tunnin sisällä peruutetusta asiakaskäynnistä veloitetaan 43€ (sis.alv).</p>
-                            </div>
-                            <h2 className='secondaryText'>Katariina / 040 56 44 049 TAI katanpata@gmail.com</h2>
+                            <p>Muista 40% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/tulot-ja-vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
+                            <p>HUOM! Alle 24 tunnin sisällä peruutetusta asiakaskäynnistä veloitetaan 43€ (sis. alv).</p>
+                            <h2>Katariina<br/>
+                                040 56 44 049<br/>
+                                TAI<br/>
+                                katanpata@gmail.com
+                            </h2>
                         </article>
                     </section>
                 </main>

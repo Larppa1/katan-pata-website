@@ -1,0 +1,8 @@
+#contactMainContent {
+    padding-top: 5vh;
+    text-align: center;
+}
+
+#contactMainContent > article > h2 {
+    line-height: 2em;
+}

@@ -11,7 +11,7 @@
     color: white;
 }
 
-#landingMain > article > h2 {
+#landingMain > article > h2:last-of-type {
     text-align: center;
 }
 
