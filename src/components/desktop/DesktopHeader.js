@@ -26,6 +26,9 @@ export default function DesktopHeader() {
                         <li>
                             <Link to='/ota-yhteytta'>Yhteystiedot</Link>
                         </li>
+                        <li>
+                            <Link to='/tietoja'>Tietoja</Link>
+                        </li>
                     </ul>
                 </div>
                 {/*END OF flex-none*/}

@@ -5,26 +5,42 @@ import MobileHeader from '../../components/mobile/MobileHeader'
 import Footer from '../../components/universal/Footer'
 
 export default function About() {
-    if(window.innerWidth < 750) {
+    if(window.innerWidth < 768) {
         return(
             <div className="container">
-                <MobileHeader />
-                <div className="content">
-                
-                </div>
-                {/*END OF CONTENT*/}
-                <Footer />
+                <header>
+                    <MobileHeader />
+                </header>
+                <main id='aboutMain'>
+                    <section>
+                        <img src="https://i.ibb.co/KcnBW4t/katanpata-pirkkalainen.webp" alt='Katan Patan mainos Pirkkalaisessa'/>
+                        <article className='prose'>
+                            <h4>Pirkkalainen, 9.1.2019</h4>
+                        </article>
+                    </section>
+                </main>
+                <footer>
+                    <Footer />
+                </footer>
             </div>
         )
     }else {
         return(
             <div className="container">
-                <DesktopHeader />
-                <div className="content">
-    
-                </div>
-                {/*END OF CONTENT*/}
-                <Footer />
+                <header>
+                    <DesktopHeader />
+                </header>
+                <main id='aboutMain'>
+                    <section>
+                        <img src="https://i.ibb.co/KcnBW4t/katanpata-pirkkalainen.webp" alt='Katan Patan mainos Pirkkalaisessa'/>
+                        <article className='prose'>
+                            <h4>Pirkkalainen, 9.1.2019</h4>
+                        </article>
+                    </section>
+                </main>
+                <footer>
+                    <Footer />
+                </footer>
             </div>
         )
     }

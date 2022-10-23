@@ -5,7 +5,7 @@ import MobileHeader from '../../components/mobile/MobileHeader'
 import Footer from '../../components/universal/Footer'
 
 export default function Pricing() {
-    if(window.innerWidth < 750) {
+    if(window.innerWidth < 768) {
         return(
             <div className="container">
                 <header>
