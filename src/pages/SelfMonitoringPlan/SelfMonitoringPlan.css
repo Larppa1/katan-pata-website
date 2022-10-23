@@ -9,7 +9,7 @@
     padding-inline: 2vw;
 }
 
-#selfMonitoringPlanMain > article > h2, h4 {
+#selfMonitoringPlanMain > article > h1, h2, h4 {
     text-align: center;
 }
 
@@ -20,4 +20,17 @@
 #selfMonitoringPlanMain > article > h4:first-of-type {
     margin-top: -2vh;
     font-style: italic;
+}
+
+@media (min-width: 768px) {
+    #selfMonitoringPlanMain > article > h3:first-of-type {
+        margin-top: -2vh;
+        margin-bottom: 4vh;
+        font-style: italic;
+        text-align: center;
+    }
+
+    #selfMonitoringPlanMain > article > h2, p {
+        text-align: left;
+    }
 }
