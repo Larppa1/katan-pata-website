@@ -9,6 +9,10 @@
     margin-left: 4vw;
 }
 
+#footer > div:first-of-type > p {
+    font-size: 1em;
+}
+
 #footer > div:last-of-type {
     display: flex;
     flex-direction: column;
@@ -21,4 +25,8 @@
 
 #footerDesktop > div:last-of-type {
     color: white;
+}
+
+#footerDesktop > div:first-of-type > p {
+    font-size: 1em;
 }
