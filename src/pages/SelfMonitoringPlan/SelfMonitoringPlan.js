@@ -71,10 +71,65 @@ export default function SelfMonitoringPlan() {
                             Asiakasturvallisuus perustuu vastuullisuuteen ja luotettavuuteen sekä varmistuu ennakoivilla toimenpiteillä: riskien arvioinneilla, työn huolellisuudella ja sopimuksilla, voimassa olevilla vakuutuksilla, tiedotuksella yhteistyötahojen kanssa. Lisäksi välineet pidetään puhtaina ja kunnossa.
                         </p>
                         <h3>9. Asiakkaan asema ja oikeudet</h3>
+                        <p>Kuvaus asiakkaan ohjauksesta ja neuvonnasta sekä palvelutarpeen arvioinnista, palvelusopimuksen ja palvelusuunnitelman laatimisesta ja päivittämisestä sekä asiakkaan osallistumisesta päätöksentekoon:<br/>
+                            Keskustellaan palvelun tarpeesta ja toteuttamistavoista asiakkaan ja/tai omaisten kanssa.  Asiakkaan luona käydään esittäytymässä ja kerrotaan suullisesti sopimusten sisällöstä ja sitovuudesta. Kirjallinen palvelusopimus ja –suunnitelma tehdään heti tai muutaman kerran jälkeen, jolloin molemmilla osapuolilla on selkeämpi käsitys palvelun toteuttamisesta. Sopimukset päivitetään, jos palveluun tulee oleellisia muutoksia. Asiakkaalle / omaisille tiedotetaan myös esim. mahdollisista etuuksista, joita voi hakea. Asiakas osallistu päätöksentekoon päivittäin: Kysellään ja kuunnellaan asiakkaan toiveita ja toteutetaan palvelu sen mukaan.<br/><br/>
+                            Kuvaus siitä, miten asiakasta informoidaan palvelusopimuksen sisällöstä, palvelun kustannuksista ja sopimusmuutoksista:<br/>
+                            Palvelusopimus tehdään aina asiakkaan läsnä ollessa. Siitä käydään jokainen kohta läpi yhdessä niin että asiakas ymmärtää mitä siinä tarkoitetaan ja sovitaan. Palvelusopimuksessa on näkyvissä molempien sopijaosapuolien tiedot, mitä palveluja asiakas tarvitsee, mikä on palvelun hinta, kuinka laskutus on sovittu, mikä on palvelun suorittamisen ajankohta sekä arvio kuinka paljon aikaa sovitun palvelun tekemiseen menee. Sopimusta tehdään kaksi kappaletta joista toinen jää asiakkaalle ja toinen palveluntuottajalle.<br/><br/>
+                            Kuvaus kuluttajansuojaa koskevasta informaatiosta:<br/>
+                            Kuluttajasuoja-asioista keskustellaan suullisesti ja se on myös kirjallisesti palvelusopimuksessa.<br/><br/>
+                            Kuvaus asiakkaan itsemääräämisoikeuden ja osallistumisen toteutumisesta (yksityisyys, intimiteettisuoja, henkilökohtainen vapaus, koskemattomuus; perustuslaki 7§ ja 10§ sekä asiakaslaki 8 – 10§):<br/>
+                            Asiakkaan itsemääräämisoikeutta kunnioitetaan aina. Asiakas sopii yhdessä yrittäjän kanssa palvelujen sisällön.<br/><br/>
+                            Kuvaus menettelystä, miten huolehditaan ja kuka vastaa asiakkaan luovuttamista rahavaroista, avaimista ja muista tavaroista:<br/>
+                            Asiakkaan mahdollisesti luovuttamien avainten vastaa yrittäjä. Avainten luovutus kirjataan palvelusopimukseen.<br/><br/>
+                            Kuvaus menettelytavasta, jos todetaan, että asiakasta on kohdeltu epäasiallisesti tai loukkaavasti:<br/>
+                            Asiakasta ei kohdella loukkaavasti. Jos hän kokee tällaista kohtelua, asia käsitellään yhdessä yrittäjän, asiakkaan ja omaisten kanssa.<br/><br/>
+                            Kuvaus asiakassuhteen päättymiseen liittyvien asioiden valmistelusta ja toteuttamisesta:<br/>
+                            Asiakassuhde voidaan päättää, jos osapuolet niin haluavat. Yhdessä sovitaan, milloin palvelu päättyy ja miten avaimet ja mahdolliset tavarat luovutetaan. Palvelusopimukseen kirjataan irtisanomisaika. Jos asiakas on tyytymätön saamaansa palveluun, hänellä on oikeus tehdä reklamaatio yritykselle. Henkilö ja yhteystiedot, jolle reklamaatio osoitetaan: Katariina Juva, Korteniityntie 122, 33980 Pirkkala. Puhelin 040-5644049. Sähköposti katanpata@gmail.com.<br/><br/>
+                            Kuvaus menettelytavasta, miten yrityksessä käsitellään sen toimintaa koskevat reklamaatiot:<br/>
+                            Yrittäjä käsittelee saamansa reklamaatiot. Samalla mietitään, antaako reklamaatio aihetta muuttaa yrityksen toimintatapoja vai onko virhe ollut sattumanvarainen. Asiakas saa kirjallisen vastauksen. Reklamaatiot dokumentoidaan.<br/><br/>
+                            Kuvaus asiakkaan asemaan ja oikeuksiin liittyvästä seurannasta ja kehittämisestä:<br/>
+                            Asiakkaan ja/tai omaisten kanssa keskustellaan palvelutilanteissa hänen toiveistaan. Palvelua kehitetään asiakkaiden toiveitten mukaan.
+                        </p>
                         <h3>10. Yrityksen toiminnan laadun varmistaminen</h3>
+                        <p>Kuvaus asiakkaiden suoriutumista, toimintakykyä, elämänhallintaa ja hyvinvointia ylläpitävästä ja edistävästä toiminnasta:<br/>
+                            Autan asiakasta hänen jokapäiväiseen arkeen liittyvissä askareissa. Tähän kuuluu mm. ruoan valmistus asiakkaan mieltymysten mukaisesti erityisruokavaliot huomioon ottaen joko muutaman päivän tarpeiksi tai viikon tarpeiksi annoksina pakkaseen. Lisäksi palveluihini kuuluu mm. siivous, ikkunoiden pesu, nurmikon leikkuu, haravointi, lumien luonti, asiointipalvelu ja muut kodin pikkuaskareet. Työt teen yksilöllisesti, siten kuin kussakin kodissa niiden halutaan toteutuvan.<br/><br/>
+                            Siivouspalveluja tuottavat yritykset: Kuvaus asiakkaan kodin siisteyden, pyykkihuollon ja jätehuollon järjestämiseen liittyvistä käytänteistä:<br/>
+                            Kodin siisteyteen voi kuulua mm. normaali viikkosiivous, pyykin pesu tai sen järjestäminen, roskien pois vienti, jääkaapin siisteys (vanhat pois). Erikseen sovittuna huolehdin myös esim. ikkunoiden pesu.<br/><br/>
+                            Ateriapalveluja tuottavat yritykset: Kuvaus asiakkaan ravitsemuksen ja ruokailun järjestämiseen liittyvistä käytänteistä:<br/>
+                            Palvelu on asiakkaan luona. Ruoan valmistus ja/tai lämmitys asiakkaan mieltymysten mukaisesti erityisruokavaliot huomioon ottaen. Valmistus muutaman päivän tai vaikka viikon tarpeiksi annoksina pakastimeen. Tiskaus.<br/><br/>
+                            Kuvaus hygieniakäytänteistä ja infektiotartuntojen ehkäisemisestä (sekä epidemiatilanteessa toimiminen):<br/>
+                            Yrittäjä on suorittanut hygieniapassin. Käsien puhtaudesta huolehditaan, pestään aina tarvittaessa, esim. aina ennen ruoanlaittotoimia. Flunssaisena ei mennä asiakaskontaktiin.<br/><br/>
+                            Kuvaus asiakastyön ja päivittäisen toiminnan kehittämisestä:<br/>
+                            Toimintaa kehitetään saadun palautteen tai palvelussa esiin tulevien tarpeiden mukaan.
+                        </p>
                         <h3>11. Asiakastietojen käsittely</h3>
+                        <p>Kuvaus asiakastietojen kirjaamisesta, käsittelystä sekä salassapitosäädösten noudattamisesta:<br/>
+                            Asiakasrekisterinä toimii manuaalinen kansio. Sinne kirjataan välttämättömät tiedot asiakkuudesta, ei esim. henkilötunnuksia. Asiakastietoja ei milloinkaan levitetä ulkopuolisille; yrityksessä noudatetaan salassapitosäädöksiä. Tietosuojavastaavan yhteystiedot: Yrityksellä ei ole sähköistä asiakasrekisteriä. Kansiossa pidettävästä asiakasrekisteristä vastaa Katariina Juva, Korteniityntie 122, 33980 Pirkkala, puh. 040 5644049.<br/><br/>
+                            Kuvaus, miten asiakasta informoidaan henkilötietojen käsittelystä:<br/>
+                            Asiakkaalle kerrotaan yrityksen salassapitokäytänteistä.<br/><br/>
+                            Kuvaus henkilöstön perehdyttämisestä ja osaamisen varmistamisesta liittyen tietosuoja-asioihin ja asiakirjahallintoon:<br/><br/>
+                            Kuvaus henkilötietolain 10§ mukaisen rekisteriselosteen ylläpitämisestä:<br/><br/>
+                            Kuvaus asiakirjojen arkistoinnista ja päättyneiden asiakassuhteiden asiakirjojen käsittelystä:<br/>
+                            Asiakirjat säilytetään yrittäjän kotona, Asiakassuhteen päättyessä palautetaan mahdolliset asiakkuuteen liittyvät asiakirjat esim. kunnan kotihoitoon, jos sellaisia on.<br/><br/>
+                            Kuvaus, miten tiedonkulku järjestetään muiden asiakkaan palvelukokonaisuuteen kuuluvien toimijoiden kanssa:<br/>
+                            Kiireelliset asiat hoidetaan puhelimitse, muulloinkin puhelinkeskustelu on käytännöllinen tapa. Tarvittaessa pyritään järjestämään tapaaminen, missä keskustellaan ajankohtaiset asiat. Salassapitosäädöksiin liittyviä tietoja ei lähetetä sähköisesti, etteivät ne missään vaiheessa joudu vääriin käsiin.<br/><br/>
+                            Kuvaus asiakastietojen käsittelyn kehittämisestä:<br/>
+                            Tietojen käsittely kehittyy ilmenevien tarpeiden tai lainsäädännön pohjalta.
+                        </p>
                         <h3>12. Alihankintana tuotettujen palvelujen omavalvonta</h3>
+                        <p>Kuvaus siitä, miten yritys valvoo alihankkijoilta ostettujen palvelujen laatua:<br/><br/>
+                            Luettelo alihankkijoista:<br/><br/>
+                            Kuvaus alihankintana tuotettujen palvelujen kehittämisestä:<br/><br/>
+                        </p>
                         <h3>13. Omavalvonnan toteuttamisen seuranta ja arviointi</h3>
+                        <p>Kuvaus omavalvontasuunnitelman päivittämisestä:<br/>
+                            Omavalvonta päivitetään vuosittain tai aina tarvittaessa. Yrittäjä vastaa päivittämisestä.<br/><br/>
+                            Omavalvontasuunnitelman hyväksyy ja vahvistaa yrittäjä.<br/><br/>
+                            Paikka ja päiväys:<br/>
+                            Pirkkalassa 25. kesäkuuta<br/><br/>
+                            Allekirjoitus:<br/>
+                            Katariina Juva
+                        </p>
                     </article>
                 </main>
                 <footer>
