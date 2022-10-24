@@ -11,7 +11,7 @@ export default function Landing() {
                 </header>
                 <main id='landingMain'>
                     <article className="prose">
-                            <h2>Mitä kaikkea Kata tekee?</h2>
+                            <h1>Mitä kaikkea Kata tekee?</h1>
                             <p>Kata laittaa ruokaa, siivoaa, pesee ikkunat, vaihtaa lampun ja vaikka naputtelee kiinni repsottavan listan. Myös ruokaostokset ja muut asionnit sujuvat mukavasti yhdessä Katan kanssa.<br/><br/>
                                 Ruokia voidaan valmistaa valmiina annoksina vain muutaman päivän tai esimerkiksi viikon tarpeiksi pakastimeen, tai sitten voitte tilata minut valmistamaan ruokia vaikkapa illalliskutsujanne varten. Ruoat valmistetaan kotonanne mieltymyksienne mukaisesti myös erityisruokavaliot huomioon ottaen.<br/><br/>
                                 Olen Pirkkalan kunnan yksityisten palvelutuottajien rekisterissä, mikä oikeuttaa minut tarjoamaan palveluja ilman arvonlisäveroa mm. yli 80-vuotiaille.<br/><br/>

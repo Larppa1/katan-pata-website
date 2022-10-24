@@ -1,14 +1,17 @@
+#servicesMain {
+    padding-block: 0;
+}
+
 #servicesMain > article {
     display: flex;
     flex-direction: column;
-    max-width: 100%;
+    min-width: 100%;
+    padding-inline: 4vw;
 }
 
 #servicesMain > article > section {
     margin-block: 4vh;
-    margin-inline: 4vh;
     padding-inline: 4vw;
-    padding-block: 2vh;
 }
 
 #servicesMain > article > section:nth-of-type(2) > p:first-of-type {
@@ -19,13 +22,14 @@
     font-style: italic;
 }
 
-#servicesMain > * h2 {
-    margin-top: 0;
+#servicesMain > * h1 {
+    margin-top: 1vh;
     text-align: center;
 }
 
-#servicesMain > * li {
-    font-weight: 600;
+#servicesMain > * h2 {
+    margin-top: 1vh;
+    text-align: center;
 }
 
 @media (min-width: 768px) {
@@ -34,14 +38,10 @@
         flex-wrap: wrap;
         justify-content: center;
     }
-
-    #servicesMain > * h1 {
-        margin-top: 0;
-        text-align: center;
-    }
     
     #servicesMain > article > section {
-        max-width: 40%;
+        max-width: 45%;
+        margin-inline: 2vw;
         padding-inline: 2vw;
         padding-block: 2vh;
     }

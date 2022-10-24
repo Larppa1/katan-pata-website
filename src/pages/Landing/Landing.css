@@ -1,18 +1,21 @@
 #landingMain {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-}
-
-#landingMain > article {
-    max-width: 90vw;
-}
-
-#landingMain > article {
     text-align: center;
+    padding-inline: 5vw;
 }
 
-#landingMain > article > h2:last-of-type {
+#landingMain > article {
+    min-width: 90%;
+}
+
+#landingMain > article > h2 {
     margin-top: 0;
+}
+
+@media (min-width: 768px) {
+    #landingMain {
+        padding-inline: 0;
+    }
 }

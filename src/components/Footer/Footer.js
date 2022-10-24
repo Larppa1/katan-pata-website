@@ -16,7 +16,7 @@ export default function Footer() {
         )
     }else {
         return(
-            <footer id="footerDesktop" className="footer items-center p-4 bg-primary text-primary-content">
+            <footer id="footer" className="footer items-center p-4 bg-primary text-primary-content">
                 <div className="items-center grid-flow-col">
                     <p>© 2022 - Katan Pata</p>
                 </div>

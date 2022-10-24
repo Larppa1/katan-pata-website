@@ -10,33 +10,29 @@ p, li {
     font-size: 1.1em;
 }
 
+li {
+    font-weight: 600;
+}
+
 body {
     padding: 0;
     margin: 0;
 }
 
-header {
-    min-height: 10vh;
-    height: 10vh;
-    max-height: 10vh;
-}
-
 main {
-    min-height: 80vh;
+    min-height: 84vh;
     min-width: 100%;
     width: 100%;
     max-width: 100%;
-    margin-block: 5vh;
-}
-
-footer {
-    min-height: 10vh;
-    height: 10vh;
-    max-height: 10vh;
+    padding-block: 3vh;
 }
 
 @media (min-width: 768px) {
     p {
         font-size: 1.4em;
+    }
+
+    main {
+        padding-block: 4vh;
     }
 }
