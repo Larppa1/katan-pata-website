@@ -13,6 +13,7 @@ export default function Landing() {
         emailjs.sendForm('service_hh87ikt', 'template_pquqfst', form.current, 'n5MdbvlDxAKYVvX49')
             .then((result) => {
                 console.log(result.text)
+                form.current.submit()
             }, (error) => {
                 console.log(error.text)
             })
