@@ -10,10 +10,54 @@
     line-height: 2em;
 }
 
+#feedbackContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-block: 8vh;
+}
+
+#feedbackContainer > form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2vh;
+    width: 80%;
+}
+
+#feedbackContainer > form > textarea {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    resize: none;
+    margin-top: 2vh;
+    width: 100%;
+    min-height: 15vh;
+    margin-bottom: 2vh;
+}
+
 @media (min-width: 768px) {
     #contactMainContent {
         padding-top: 0;
         height: 60vh;
         justify-content: center;
+    }
+
+    #feedbackContainer {
+        min-width: 100%;
+        margin-top: -5vh;
+    }
+
+    #feedbackContainer > h4 {
+        width: 50%;
+    }
+
+    #feedbackContainer > form > textarea {
+        width: 50%;
+        min-height: 25vh;
+    }
+
+    #feedbackContainer > form > button {
+        width: 20%
     }
 }
