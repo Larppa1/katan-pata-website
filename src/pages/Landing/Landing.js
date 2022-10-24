@@ -22,10 +22,10 @@ export default function Landing() {
     if(window.innerWidth < 768) {
         return(
             <div className="container">
-                {/* <section>
+                <section>
                     <div className="dropdown dropdown-top dropdown-end">
                         <label tabIndex={0} className="btn bg-base-300 shadow-xl">Palaute</label>
-                        <div className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary rounded-box w-80">
+                        {/* <div className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary rounded-box w-80">
                             <article id='feedbackContainer' className='prose'>
                                 <h2>Anna palautetta!</h2>
                                 <h4>Haluamme kuulla, miten olemme onnistuneet palveluiden tarjonnassa. Kaikki palautteet ovat nimettömiä, eikä niitä voida yhdistää kehenkään henkilöön.</h4>
@@ -34,9 +34,9 @@ export default function Landing() {
                                     <input type="submit" className="btn">Lähetä</input>
                                 </form>
                             </article>
-                        </div>
+                        </div> */}
                     </div>
-                </section> */}
+                </section>
                 <header>
                     <MobileHeader />
                 </header>
