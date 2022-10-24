@@ -8,7 +8,7 @@ export default function Contact() {
     const form = useRef()
     const sendEmail = (e) => {
         e.preventDefault()
-        emailjs.sendForm('service_hh87ikt', 'template_pquqfst', form.current, 'n5MdbvlDxAKYVvX49')
+        emailjs.sendForm('service_dqrnhat', 'template_pquqfst', form.current, 'n5MdbvlDxAKYVvX49')
             .then((result) => {
                 console.log(result.text)
                 form.current.submit()
