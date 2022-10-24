@@ -1,15 +1,14 @@
 import React from 'react'
 import './About.css'
-import DesktopHeader from '../../components/desktop/DesktopHeader'
-import MobileHeader from '../../components/mobile/MobileHeader'
-import Footer from '../../components/universal/Footer'
+import Navbar from '../../components/Navbar/Navbar'
+import Footer from '../../components/Footer/Footer'
 
 export default function About() {
     if(window.innerWidth < 768) {
         return(
             <div className="container">
                 <header>
-                    <MobileHeader />
+                    <Navbar />
                 </header>
                 <main id='aboutMain'>
                     <section>
@@ -28,7 +27,7 @@ export default function About() {
         return(
             <div className="container">
                 <header>
-                    <DesktopHeader />
+                    <Navbar />
                 </header>
                 <main id='aboutMain'>
                     <section>

@@ -1,9 +1,8 @@
 import React, { useRef } from 'react'
 import emailjs from '@emailjs/browser'
 import './Contact.css'
-import DesktopHeader from '../../components/desktop/DesktopHeader'
-import MobileHeader from '../../components/mobile/MobileHeader'
-import Footer from '../../components/universal/Footer'
+import Navbar from '../../components/Navbar/Navbar'
+import Footer from '../../components/Footer/Footer'
 
 export default function Contact() {
     const form = useRef()
@@ -22,7 +21,7 @@ export default function Contact() {
         return(
             <div className="container">
                 <header>
-                    <MobileHeader />
+                    <Navbar />
                 </header>
                 <main>
                     <section id='contactMainContent'>
@@ -54,7 +53,7 @@ export default function Contact() {
         return(
             <div className="container">
                 <header>
-                    <DesktopHeader />
+                    <Navbar />
                 </header>
                 <main>
                     <section id='contactMainContent'>

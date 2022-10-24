@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 5vh;
     text-align: center;
 }
 
@@ -21,7 +20,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 2vh;
+    margin-top: 2vh; 
     width: 80%;
 }
 
@@ -37,15 +36,8 @@
 }
 
 @media (min-width: 768px) {
-    #contactMainContent {
-        padding-top: 0;
-        height: 60vh;
-        justify-content: center;
-    }
-
     #feedbackContainer {
         min-width: 100%;
-        margin-top: -5vh;
     }
 
     #feedbackContainer > h4 {

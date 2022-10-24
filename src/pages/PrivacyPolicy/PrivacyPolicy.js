@@ -1,14 +1,13 @@
 import './PrivacyPolicy.css'
-import DesktopHeader from '../../components/desktop/DesktopHeader'
-import MobileHeader from '../../components/mobile/MobileHeader'
-import Footer from '../../components/universal/Footer'
+import Navbar from '../../components/Navbar/Navbar'
+import Footer from '../../components/Footer/Footer'
 
 export default function PrivacyPolicy() {
     if(window.innerWidth < 768) {
         return(
             <div className="container">
                 <header>
-                    <MobileHeader />
+                    <Navbar />
                 </header>
                 <main id='privacyPolicyMain'>
                     <article className='prose'>
@@ -60,7 +59,7 @@ export default function PrivacyPolicy() {
         return(
             <div className="container">
                 <header>
-                    <DesktopHeader />
+                    <Navbar />
                 </header>
                 <main id='privacyPolicyMain'>
                     <article className='prose'>

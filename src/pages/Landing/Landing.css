@@ -1,5 +1,4 @@
 #landingMain {
-    padding-block: 3vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -7,20 +6,13 @@
 }
 
 #landingMain > article {
-    max-width: 80vw;
+    max-width: 90vw;
 }
 
-#landingMain > article > h2:last-of-type {
+#landingMain > article {
     text-align: center;
-    margin-block: 2vh;
 }
 
 #landingMain > article > h2:last-of-type {
     margin-top: 0;
-}
-
-@media (min-width: 768px) {
-    #landingMain > article > h1, h2 {
-        text-align: center;
-    }
 }
