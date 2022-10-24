@@ -9,14 +9,14 @@ export default function Landing() {
     const form = useRef()
 
     const sendEmail = (e) => {
-        e.preventDefault()
+        /* e.preventDefault()
         emailjs.sendForm('service_hh87ikt', 'template_pquqfst', form.current, 'n5MdbvlDxAKYVvX49')
             .then((result) => {
                 console.log(result.text)
                 form.current.submit()
             }, (error) => {
                 console.log(error.text)
-            })
+            }) */
     }
 
     if(window.innerWidth < 768) {
