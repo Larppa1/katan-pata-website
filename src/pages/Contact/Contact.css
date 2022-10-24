@@ -35,6 +35,11 @@
     margin-bottom: 2vh;
 }
 
+#formSendConfirmation {
+    visibility: hidden;
+    font-style: italic;
+}
+
 @media (min-width: 768px) {
     #feedbackContainer {
         min-width: 100%;

@@ -11,6 +11,8 @@ export default function Contact() {
         emailjs.sendForm('service_dqrnhat', 'template_pquqfst', form.current, 'n5MdbvlDxAKYVvX49')
             .then((result) => {
                 console.log(result.text)
+                document.getElementById('formSendConfirmation').style.visibility = 'visible'
+                document.getElementById('message').value = ''
             }, (error) => {
                 console.log(error.text)
             })
@@ -40,6 +42,7 @@ export default function Contact() {
                                 <textarea id='message' className="textarea textarea-bordered" placeholder="Viesti" name="message"></textarea>
                                 <button className='btn' type='submit'>Lähetä</button>
                             </form>
+                            <h4 id='formSendConfirmation'>Kiitos palautteestasi!</h4>
                         </article>
                     </section>
                 </main>
@@ -72,6 +75,7 @@ export default function Contact() {
                                 <textarea id='message' className="textarea textarea-bordered" placeholder="Viesti" name="message"></textarea>
                                 <button className='btn' type='submit'>Lähetä</button>
                             </form>
+                            <h4 id='formSendConfirmation'>Kiitos palautteestasi!</h4>
                         </article>
                     </section>
                 </main>
