@@ -25,16 +25,16 @@ export default function Landing() {
                 <section>
                     <div className="dropdown dropdown-top dropdown-end">
                         <label tabIndex={0} className="btn bg-base-300 shadow-xl">Palaute</label>
-                        {/* <div className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary rounded-box w-80">
+                        <div className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-primary rounded-box w-80">
                             <article id='feedbackContainer' className='prose'>
                                 <h2>Anna palautetta!</h2>
                                 <h4>Haluamme kuulla, miten olemme onnistuneet palveluiden tarjonnassa. Kaikki palautteet ovat nimettömiä, eikä niitä voida yhdistää kehenkään henkilöön.</h4>
-                                <form ref={form} onSubmit={sendEmail}>
+                                {/* <form ref={form} onSubmit={sendEmail}>
                                     <textarea id='message' className="textarea textarea-bordered" placeholder="Viesti" name="message"></textarea>
                                     <input type="submit" className="btn">Lähetä</input>
-                                </form>
+                                </form> */}
                             </article>
-                        </div> */}
+                        </div>
                     </div>
                 </section>
                 <header>

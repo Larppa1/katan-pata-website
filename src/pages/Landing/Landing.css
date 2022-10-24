@@ -63,6 +63,12 @@
         text-align: center;
     }
     .container > section:first-of-type > div {
-        padding: 3em;
+        padding: 0;
+        margin-right: 2vw;
+        margin-bottom: 12vh;
+    }
+    .container > section:first-of-type > div > div {
+        margin-right: 0vw;
+        margin-bottom: 2vh;
     }
 }
