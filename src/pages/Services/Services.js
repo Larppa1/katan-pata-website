@@ -13,8 +13,8 @@ export default function Services() {
                     <article className='prose'>
                         <section className='card bg-neutral shadow-xl'>
                             <h2>Arkiruoanlaitto</h2>
+                            <p>Tekisikö mieli kaalipataa tai vaikka merimiespihvejä?</p>
                             <p>
-                                Tekisikö mieli kaalipataa tai vaikka merimiespihvejä?<br/><br/>
                                 Jos kiire painaa tai jaksaminen ei riitä ruoanlaittoon niin voitte tilata minut tekemään sen puolestanne.<br/><br/>
                                 Voin tulla laittaamaan mieliruokianne esimerkiksi viikon tarpeiksi annoksina pakkaseen tai vain muutaman päivän tarpeiksi. Kerrotte vain mitä haluatte syödä niin minä toteutan.<br/><br/>
                                 Voin tehdä teille sitä varten kauppalistan tai toisena vaihtoehtona voimme yhdessä tehdä ruokaostokset tai voin myös käydä noutamassa tilaamanne raaka-aineet.<br/><br/>
@@ -82,8 +82,8 @@ export default function Services() {
                     <article className='prose'>
                         <section className='card bg-neutral shadow-xl'>
                             <h1>Arkiruoanlaitto</h1>
+                            <p>Tekisikö mieli kaalipataa tai vaikka merimiespihvejä?</p>
                             <p>
-                                Tekisikö mieli kaalipataa tai vaikka merimiespihvejä?<br/><br/>
                                 Jos kiire painaa tai jaksaminen ei riitä ruoanlaittoon niin voitte tilata minut tekemään sen puolestanne.<br/><br/>
                                 Voin tulla laittaamaan mieliruokianne esimerkiksi viikon tarpeiksi annoksina pakkaseen tai vain muutaman päivän tarpeiksi. Kerrotte vain mitä haluatte syödä niin minä toteutan.<br/><br/>
                                 Voin tehdä teille sitä varten kauppalistan tai toisena vaihtoehtona voimme yhdessä tehdä ruokaostokset tai voin myös käydä noutamassa tilaamanne raaka-aineet.<br/><br/>
