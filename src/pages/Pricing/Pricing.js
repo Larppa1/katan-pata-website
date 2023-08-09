@@ -42,12 +42,10 @@ export default function Pricing() {
                             </section>
                             <section>
                                 <section>
-                                    <h3>Alv 24%</h3>
                                     <h3>Alv 0%</h3>
                                 </section>
                                 <section>
-                                    <h3>0,52€/km</h3>
-                                    <h3>0,42€/km</h3>
+                                    <h3>0,53€/km</h3>
                                 </section>
                             </section>
                         </article>
@@ -107,12 +105,10 @@ export default function Pricing() {
                             </section>
                             <section>
                                 <section>
-                                    <h2>Alv 24%</h2>
                                     <h2>Alv 0%</h2>
                                 </section>
                                 <section>
-                                    <h2>0,52€/km</h2>
-                                    <h2>0,42€/km</h2>
+                                    <h2>0,53€/km</h2>
                                 </section>
                             </section>
                         </article>

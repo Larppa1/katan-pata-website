@@ -13,14 +13,14 @@ export default function PrivacyPolicy() {
                     <article className='prose'>
                         <h2>Henkilötietolain (523/99) 10 § mukainen rekisteriseloste</h2>
                         <h3>1. Rekisterinpitäjä</h3>
-                        <p>Katan Pata<br/>
-                        Y-tunnus: 1527508-2<br/>
+                        <p>Katan Pata Oy<br/>
+                        Y-tunnus: 3322569-5<br/>
                         Miekkatie 6<br/>
                         33960 Pirkkala<br/>
                         Puh. 040 56 44 049
                         </p>
                         <h3>2. Yhteyshenkilö rekisteriä koskevissa asioissa</h3>
-                        <p>Katariina Juva<br/>
+                        <p>Katariina Juva-Höylänen<br/>
                         Korteniityntie 122<br/>
                         33980 Pirkkala<br/>
                         katanpata@gmail.com
