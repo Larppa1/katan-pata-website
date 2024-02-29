@@ -45,14 +45,14 @@ export default function Pricing() {
                                     <h3>Alv 0%</h3>
                                 </section>
                                 <section>
-                                    <h3>0,53€/km</h3>
+                                    <h3>0,57€/km</h3>
                                 </section>
                             </section>
                         </article>
                     </section>
                     <section id='pricingMainBottom'>
                         <article className='prose'>
-                            <p>Muista 40% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/tulot-ja-vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
+                            <p>Muista 60% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
                             <p>HUOM! Alle 24 tunnin sisällä peruutetusta asiakaskäynnistä veloitetaan 43€ (sis. alv).</p>
                             <h2>Katariina<br/>
                                 040 56 44 049<br/>
@@ -108,14 +108,14 @@ export default function Pricing() {
                                     <h2>Alv 0%</h2>
                                 </section>
                                 <section>
-                                    <h2>0,53€/km</h2>
+                                    <h2>0,57€/km</h2>
                                 </section>
                             </section>
                         </article>
                     </section>
                     <section id='pricingMainBottom'>
                         <article className='prose'>
-                            <p>Muista 40% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/tulot-ja-vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
+                            <p>Muista 60% kotitalousvähennys. Katso lisää kotitalousvähennyksestä Verohallinnon sivuilta painamalla <span><a className='link' href='https://www.vero.fi/henkiloasiakkaat/verokortti-ja-veroilmoitus/vahennykset/kotitalousvahennys/' target='_blank' rel='noreferrer'>tästä</a></span>.<br/><br/></p>
                             <p>HUOM! Alle 24 tunnin sisällä peruutetusta asiakaskäynnistä veloitetaan 43€ (sis. alv).</p>
                             <h2>Katariina<br/>
                                 040 56 44 049 / katanpata@gmail.com

@@ -14,7 +14,7 @@ export default function Landing() {
                             <h1>Mitä kaikkea Kata tekee?</h1>
                             <p>Kata laittaa ruokaa, siivoaa, pesee ikkunat, vaihtaa lampun ja vaikka naputtelee kiinni repsottavan listan. Myös ruokaostokset ja muut asionnit sujuvat mukavasti yhdessä Katan kanssa.<br/><br/>
                                 Ruokia voidaan valmistaa valmiina annoksina vain muutaman päivän tai esimerkiksi viikon tarpeiksi pakastimeen, tai sitten voitte tilata minut valmistamaan ruokia vaikkapa illalliskutsujanne varten. Ruoat valmistetaan kotonanne mieltymyksienne mukaisesti myös erityisruokavaliot huomioon ottaen.<br/><br/>
-                                Olen Pirkkalan kunnan yksityisten palvelutuottajien rekisterissä, mikä oikeuttaa minut tarjoamaan palveluja ilman arvonlisäveroa mm. yli 80-vuotiaille.<br/><br/>
+                                Olen Pirhan yksityisten palvelutuottajien rekisterissä, mikä oikeuttaa minut tarjoamaan palveluja ilman arvonlisäveroa mm. toimintakyvyn alenemisen johdosta.<br/><br/>
                                 Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
                                 Ota yhteyttä niin suunnitellaan, kuinka voin olla avuksi!<br/>
                                 Suunnittelukäynti on maksuton eikä sido sinua mihinkään.
@@ -42,7 +42,7 @@ export default function Landing() {
                             <h1>Mitä kaikkea Kata tekee?</h1>
                             <p>Kata laittaa ruokaa, siivoaa, pesee ikkunat, vaihtaa lampun ja vaikka naputtelee kiinni repsottavan listan. Myös ruokaostokset ja muut asionnit sujuvat mukavasti yhdessä Katan kanssa.<br/><br/>
                                 Ruokia voidaan valmistaa valmiina annoksina vain muutaman päivän tai esimerkiksi viikon tarpeiksi pakastimeen, tai sitten voitte tilata minut valmistamaan ruokia vaikkapa illalliskutsujanne varten. Ruoat valmistetaan kotonanne mieltymyksienne mukaisesti myös erityisruokavaliot huomioon ottaen.<br/><br/>
-                                Olen Pirkkalan kunnan yksityisten palvelutuottajien rekisterissä, mikä oikeuttaa minut tarjoamaan palveluja ilman arvonlisäveroa mm. yli 80-vuotiaille.<br/><br/>
+                                Olen Pirhan yksityisten palvelutuottajien rekisterissä, mikä oikeuttaa minut tarjoamaan palveluja ilman arvonlisäveroa mm. toimintakyvyn alenemisen johdosta.<br/><br/>
                                 Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
                                 Ota yhteyttä niin suunnitellaan, kuinka voin olla avuksi!<br/>
                                 Suunnittelukäynti on maksuton eikä sido sinua mihinkään.

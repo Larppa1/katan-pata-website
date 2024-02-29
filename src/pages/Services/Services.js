@@ -18,7 +18,7 @@ export default function Services() {
                                 Jos kiire painaa tai jaksaminen ei riitä ruoanlaittoon niin voitte tilata minut tekemään sen puolestanne.<br/><br/>
                                 Voin tulla laittaamaan mieliruokianne esimerkiksi viikon tarpeiksi annoksina pakkaseen tai vain muutaman päivän tarpeiksi. Kerrotte vain mitä haluatte syödä niin minä toteutan.<br/><br/>
                                 Voin tehdä teille sitä varten kauppalistan tai toisena vaihtoehtona voimme yhdessä tehdä ruokaostokset tai voin myös käydä noutamassa tilaamanne raaka-aineet.<br/><br/>
-                                Erityisruokavalioista minulla on lähes 20 vuoden kokemus.
+                                Erityisruokavalioista minulla on yli 20 vuoden kokemus.
                             </p>
                         </section>
                         <section className='card bg-neutral shadow-xl'>
@@ -54,9 +54,9 @@ export default function Services() {
                         <section className='card bg-neutral shadow-xl'>
                             <h2>Arvonlisäverottomat palvelut</h2>
                             <p>
-                                Olen Pirkkalan kunnan yksityisten palvelutuottajien rekisterissä, joka mahdollistaa minun tarjota arvonlisäverotonta kotipalvelua Pirkkalan ja Vesilahden alueilla. Oikeus arvonlisäverottomaan palveluun määräytyy siten, jos asiakkaan toimintakyky on alentunut esimerkiksi ikääntymisen, vamman tai onnettomuuden seurauksena. Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
+                                Olen Pirhan yksityisten palvelutuottajien rekisterissä, joka mahdollistaa minun tarjota arvonlisäverotonta kotipalvelua Pirkkalan, Tampereen, Nokian ja Vesilahden alueilla. Oikeus arvonlisäverottomaan palveluun määräytyy siten, jos asiakkaan toimintakyky on alentunut esimerkiksi ikääntymisen, vamman tai onnettomuuden seurauksena. Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
                                 Oli sitten kysymys ruoanlaitosta, siivouksesta tai asiointiavusta tuntihinta on aina kiinteä.<br/><br/>
-                                Hinta 34,68€/tunti alv. 0% (kotitalousvähennyksen jälkeen 20,81€/tunti).
+                                Hinta 34,68€/tunti alv. 0% (kotitalousvähennyksen jälkeen 13,87€/tunti).
                             </p>
                         </section>
                         <section className='card bg-neutral shadow-xl'>
@@ -87,7 +87,7 @@ export default function Services() {
                                 Jos kiire painaa tai jaksaminen ei riitä ruoanlaittoon niin voitte tilata minut tekemään sen puolestanne.<br/><br/>
                                 Voin tulla laittaamaan mieliruokianne esimerkiksi viikon tarpeiksi annoksina pakkaseen tai vain muutaman päivän tarpeiksi. Kerrotte vain mitä haluatte syödä niin minä toteutan.<br/><br/>
                                 Voin tehdä teille sitä varten kauppalistan tai toisena vaihtoehtona voimme yhdessä tehdä ruokaostokset tai voin myös käydä noutamassa tilaamanne raaka-aineet.<br/><br/>
-                                Erityisruokavalioista minulla on lähes 20 vuoden kokemus.
+                                Erityisruokavalioista minulla on yli 20 vuoden kokemus.
                             </p>
                         </section>
                         <section className='card bg-neutral shadow-xl'>
@@ -123,9 +123,9 @@ export default function Services() {
                         <section className='card bg-neutral shadow-xl'>
                             <h1>Arvonlisäverottomat palvelut</h1>
                             <p>
-                                Olen Pirkkalan kunnan yksityisten palvelutuottajien rekisterissä, joka mahdollistaa minun tarjota arvonlisäverotonta kotipalvelua Pirkkalan ja Vesilahden alueilla. Oikeus arvonlisäverottomaan palveluun määräytyy siten, jos asiakkaan toimintakyky on alentunut esimerkiksi ikääntymisen, vamman tai onnettomuuden seurauksena. Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
+                                Olen Pirhan yksityisten palvelutuottajien rekisterissä, joka mahdollistaa minun tarjota arvonlisäverotonta kotipalvelua Pirkkalan, Tampereen, Nokian ja Vesilahden alueilla. Oikeus arvonlisäverottomaan palveluun määräytyy siten, jos asiakkaan toimintakyky on alentunut esimerkiksi ikääntymisen, vamman tai onnettomuuden seurauksena. Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
                                 Oli sitten kysymys ruoanlaitosta, siivouksesta tai asiointiavusta tuntihinta on aina kiinteä.<br/><br/>
-                                Hinta 34,68€/tunti alv. 0% (kotitalousvähennyksen jälkeen 20,81€/tunti).
+                                Hinta 34,68€/tunti alv. 0% (kotitalousvähennyksen jälkeen 13,87€/tunti).
                             </p>
                         </section>
                         <section className='card bg-neutral shadow-xl'>
