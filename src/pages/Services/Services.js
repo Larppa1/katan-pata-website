@@ -56,7 +56,7 @@ export default function Services() {
                             <p>
                                 Olen Pirhan yksityisten palvelutuottajien rekisterissä, joka mahdollistaa minun tarjota arvonlisäverotonta kotipalvelua Pirkkalan, Tampereen, Nokian ja Vesilahden alueilla. Oikeus arvonlisäverottomaan palveluun määräytyy siten, jos asiakkaan toimintakyky on alentunut esimerkiksi ikääntymisen, vamman tai onnettomuuden seurauksena. Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
                                 Oli sitten kysymys ruoanlaitosta, siivouksesta tai asiointiavusta tuntihinta on aina kiinteä.<br/><br/>
-                                Hinta 34,68€/tunti alv. 0% (kotitalousvähennyksen jälkeen 13,87€/tunti).
+                                Hinta 37.45€/tunti alv. 0% (kotitalousvähennyksen jälkeen 14.98€/tunti).
                             </p>
                         </section>
                         <section className='card bg-neutral shadow-xl'>
@@ -125,7 +125,7 @@ export default function Services() {
                             <p>
                                 Olen Pirhan yksityisten palvelutuottajien rekisterissä, joka mahdollistaa minun tarjota arvonlisäverotonta kotipalvelua Pirkkalan, Tampereen, Nokian ja Vesilahden alueilla. Oikeus arvonlisäverottomaan palveluun määräytyy siten, jos asiakkaan toimintakyky on alentunut esimerkiksi ikääntymisen, vamman tai onnettomuuden seurauksena. Kysy minulta lisää mahdollisesta oikeudestasi arvonlisäverottomaan palveluun.<br/><br/>
                                 Oli sitten kysymys ruoanlaitosta, siivouksesta tai asiointiavusta tuntihinta on aina kiinteä.<br/><br/>
-                                Hinta 34,68€/tunti alv. 0% (kotitalousvähennyksen jälkeen 13,87€/tunti).
+                                Hinta 37.45€/tunti alv. 0% (kotitalousvähennyksen jälkeen 14.98€/tunti).
                             </p>
                         </section>
                         <section className='card bg-neutral shadow-xl'>
