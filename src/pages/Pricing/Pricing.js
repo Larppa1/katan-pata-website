@@ -20,16 +20,16 @@ export default function Pricing() {
                     <section id='pricingMainContent'>
                         <article className="prose">
                             <section>
-                                <h3>Alv 24%</h3>
+                                <h3>Alv 25.5%</h3>
                                 <h3>Alv 0%</h3>
                                 <h3>La klo 07-18</h3>
                                 <h3>Su klo 11-17</h3>
                             </section>
                             <section>
-                                <h3>43€/h</h3>
-                                <h3>34.68€/h</h3>
-                                <h3>43.35€/h</h3>
-                                <h3>69.36€/h</h3>
+                                <h3>47€/h</h3>
+                                <h3>37.45€/h</h3>
+                                <h3>46.81€/h</h3>
+                                <h3>74.90€/h</h3>
                             </section>
                         </article>
                     </section>
@@ -83,16 +83,16 @@ export default function Pricing() {
                     <section id='pricingMainContent'>
                         <article className="prose">
                             <section>
-                                <h2>Alv 24%</h2>
+                                <h2>Alv 25.5%</h2>
                                 <h2>Alv 0%</h2>
                                 <h2>La klo 07-18</h2>
                                 <h2>Su klo 11-17</h2>
                             </section>
                             <section>
-                                <h2>43€/h</h2>
-                                <h2>34.68€/h</h2>
-                                <h2>43.35€/h</h2>
-                                <h2>69.36€/h</h2>
+                                <h2>47€/h</h2>
+                                <h2>37.45€/h</h2>
+                                <h2>46.81€/h</h2>
+                                <h2>74.90€/h</h2>
                             </section>
                         </article>
                     </section>

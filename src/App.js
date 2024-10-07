@@ -7,6 +7,7 @@ import About from './pages/About/About'
 import PrivacyPolicy from "./pages/PrivacyPolicy/PrivacyPolicy";
 import SelfMonitoringPlan from "./pages/SelfMonitoringPlan/SelfMonitoringPlan"
 import './styles.css'
+import { useCallback, useEffect, useState } from "react";
 
 export default function App() {
   return (
